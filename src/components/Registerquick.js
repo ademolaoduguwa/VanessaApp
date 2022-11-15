@@ -217,8 +217,8 @@ return (
     </Row>
     <Row > 
          <Col  xs={24} sm={24} md={14} lg={14} xl={14}  style={{ padding: '0px', marginBottom: 50, marginTop: 60 }}>
-                <h2>Vanessa is an atmopshere for you to be 'high' ;)</h2>
-                <span>it's an invite only place where your friends are already coming to get 'high' on fun, money, knowledge...</span>
+                <h2>Vanessa is making learning fun again ;)</h2>
+                <span>Learn, earn and have fun on vanessa...</span>
                 {/* on fun, money, knowledge... ! */}
                
         </Col> 
@@ -434,7 +434,7 @@ return (
                                 hash: "",
                                 state: [{ name: "Ademola", age:"20", dob:89 }]
                                 }}
-                            >   Come in baby if you've already joined !</Link>
+                            >   Come in if you've already joined !</Link>
                     </Form.Item>
                 </Form>   
 
@@ -448,7 +448,7 @@ return (
 </div>
 
 </Content>
-<Footer style={{ textAlign: 'center' }}><h5>tweet enquiries to @AdemolaOduguwa</h5></Footer>
+<Footer style={{ textAlign: 'center' }}><h5>hello@onvanessa.xyz</h5></Footer>
 </Layout>
 
    
